@@ -30,7 +30,7 @@ The ICP comes first. Then personas within it. A great persona at a non-ICP compa
 2. Read `references/sr-three-together-matrix.md` — confirm the ICP cell for the founder's level (Guess → Recognized → Design Partners → Primary → Expandable)
 3. Read `references/sr-tone-and-voice.md` — voice
 4. Check `.sr-gtm/state.md` for the founder's current PMF level. **If level is not set, stop and run `sr-pmf-diagnostic` first.**
-5. Check `.sr-gtm/narrative.md` if it exists — Section 7 (Who This Is For) and the Promised Land both feed the ICP work
+5. Check `.sr-gtm/narrative.md` if it exists — Section 4 (Target Audiences) and Section 3 (Value Proposition) both feed the ICP work directly. The ICP doc is the operational layer underneath the narrative's Target Audiences statement; they should agree.
 6. Check `.sr-gtm/signal-log.md` if it exists — customer signals are the most valuable input to ICP
 7. Check `.sr-gtm/icp.md` if it exists — this may be a refinement, not a fresh draft
 
@@ -313,14 +313,14 @@ Then update `.sr-gtm/state.md`:
 
 After this skill produces output, several other skills should be re-run or refined:
 
-- `sr-narrative-builder` — Section 7 (Who This Is For) should be updated to reflect the ICP work
+- `sr-narrative-builder` — Section 4 (Target Audiences) of the narrative should align with the ICP doc. The narrative says "who this is for" at a positioning level; the ICP doc says it operationally with named accounts, persona tiers, and JTBD detail. When one updates, the other should be reviewed.
 - `sr-distribution-aligner` — "Where to find them" feeds directly into distribution channel selection
 - `sr-system-diagnostic` — Will check whether the ICP's evidence level matches the narrative's level (cross-pillar coherence)
 
 Tell the founder explicitly when you've finished:
 
 > The ICP is saved. Two things to consider next:
-> 1. If you've drafted a narrative, the "Who This Is For" section should be updated to match what we just built.
+> 1. If you've drafted a narrative, the Target Audiences section should be updated to match what we just built.
 > 2. The "where to find them" lists become the input for distribution work. When you're ready to think about channels, this is what we'll start from.
 
 ## Voice reminders
@@ -335,7 +335,7 @@ Read `references/sr-tone-and-voice.md`. Specific to this skill:
 ## Related skills
 
 - `sr-pmf-diagnostic` — Run first if level is unknown
-- `sr-narrative-builder` — Iterates with this skill; narrative's "Who It's For" and ICP refine each other
+- `sr-narrative-builder` — Iterates with this skill. Section 4 of the narrative (Target Audiences) and the ICP doc are the same idea at two altitudes — narrative-level statement above, operational detail below. Refine them together.
 - `sr-distribution-aligner` — Uses this skill's "Where to find them" lists as input
 - `sr-system-diagnostic` — Checks ICP evidence level against the rest of the system
 - `sr-gtm-system` — Returns here when ICP is the weakest pillar

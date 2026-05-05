@@ -27,7 +27,7 @@ Founders should never be asked to manually manage these files. The plugin handle
 .sr-gtm/
   state.md              ← single-pane summary, always read first
   pmf-assessment.md     ← detailed PMF diagnostic output
-  narrative.md          ← narrative draft (12-section framework, scaled by level)
+  narrative.md          ← narrative draft (V2V framework — 11 layers, scaled by level)
   icp.md                ← company ICP + personas
   distribution.md       ← distribution plan, level-aligned
   system-check.md       ← latest system diagnostic findings
@@ -95,15 +95,21 @@ Structure:
 
 ## File: `narrative.md`
 
-The narrative draft, structured by the 12-section framework from `sr-narrative-framework.md`. Section count scales by level:
+The narrative draft, structured by the Vision-to-Values framework from `sr-narrative-framework.md` — eleven layers organized top-down: Vision, Mission, Value Proposition, Target Audiences, Strategy, Priorities, Objectives, Culture, Values, plus two operating layers (Narrative Pillars, Application).
 
-- L1: sections 1-3 only
-- L2: sections 1-6
-- L3: sections 1-7
-- L4: sections 1-11
-- L5: sections 1-12 + manifesto + key messaging modules
+Section availability scales by level:
 
-Always opens with a bold "EDIT ME HEAVILY" header explaining that this is a draft. Always notes the level it was generated for, so a founder revisiting later knows whether it needs to be re-drafted at a new level.
+- **L1:** Vision (1) and Mission (2) only — the dream layers. Everything below requires market signal the founder doesn't yet have.
+- **L2+:** All 11 layers available. The cell label (Hypothesis → Category bet → Customer language → Internal alignment → Owned) describes the *quality* of work expected, not which sections are gated.
+
+Recommended starting points by level (these are defaults, not gates above L1):
+
+- L2: Vision through Target Audiences (1-4) — dream + market layers
+- L3: Vision through Objectives (1-7) — dream + market + plan layers
+- L4: All nine V2V layers (1-9) — adds Culture and Values
+- L5: Full 11-section doc — operating layers (Narrative Pillars, Application) become load-bearing
+
+Always opens with a bold "EDIT ME HEAVILY" header explaining that this is a draft and that the same document is meant to be both internally governing and externally facing. Always notes the level it was generated for, so a founder revisiting later knows whether it needs to be re-drafted at a new level.
 
 ---
 

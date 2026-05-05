@@ -20,7 +20,7 @@ Six skills that work together as one system:
 |---|---|
 | **`sr-gtm-system`** ← **start here** | Orchestrator. Front door for the whole flow — reads your state, tells you where to focus. Always invoke this first. |
 | `sr-pmf-diagnostic` | Finds your PMF level (1-5) through guided conversation, with evidence and what's missing to advance. |
-| `sr-narrative-builder` | Drafts your narrative using the 12-section Andy Raskin / April Dunford / manifesto framework, scaled to your level. |
+| `sr-narrative-builder` | Drafts your narrative using the Vision-to-Values framework — 11 layers, top-down from Vision to Application, scaled to your level. |
 | `sr-icp-builder` | Builds your company ICP and personas-at-the-company, anchored to the evidence you actually have. |
 | `sr-distribution-aligner` | Aligns distribution work to your PMF stage. Will refuse to build an outbound playbook for an L1 founder. |
 | `sr-system-diagnostic` | Capstone. Pressure-tests whether you have a system or a lottery ticket. |
@@ -108,7 +108,7 @@ The plugin uses this matrix to keep advice level-appropriate.
 
 ## Credits
 
-Framework by Second Rodeo. The narrative scaffolding draws on Andy Raskin's strategic narrative work, April Dunford's positioning framework (*Obviously Awesome*), and the manifesto tradition used by Linear, Apple, and Patagonia.
+Framework by Second Rodeo. The narrative scaffolding is built on Jeff Weiner's [Vision to Values framework](http://nextplayventures.com/vision-to-values), developed during his time as CEO of LinkedIn — nine layers, top-down from Vision to Values. Second Rodeo's contribution is the narrative-and-positioning craft layered underneath each section, plus two operating layers (Narrative Pillars, Application) added to turn the doc from a static positioning piece into a living operating system.
 
 ## License
 

@@ -221,7 +221,7 @@ Read `references/sr-tone-and-voice.md`. Some specifics for this skill:
 ## Related skills
 
 - `sr-gtm-system` — Returns here after the diagnostic to recommend the next pillar
-- `sr-narrative-builder` — Uses the level to scale section count
+- `sr-narrative-builder` — Uses the level to determine which V2V layers are appropriate (L1 = Vision + Mission only; L2+ = full framework available)
 - `sr-icp-builder` — Uses the level to set the evidence framing
 - `sr-distribution-aligner` — Uses the level to determine what work is appropriate
 - `sr-system-diagnostic` — Re-uses the level when checking system coherence

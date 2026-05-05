@@ -269,7 +269,7 @@ Then build a thinned-down version, keeping the refusals visible. The plugin's jo
 This skill depends heavily on inputs from other skills:
 
 - **`.sr-gtm/icp.md`** — "Where to find them" feeds channel selection. If ICP doesn't exist or is at a much lower evidence level than the distribution work being asked for, route the founder back to ICP work first.
-- **`.sr-gtm/narrative.md`** — Distribution should reflect the narrative's voice and POV. Channels that don't fit the voice are wrong even if they fit the audience.
+- **`.sr-gtm/narrative.md`** — Distribution should reflect the narrative's voice and POV. Three V2V sections matter most: Section 3 (Value Proposition) tells you what the channel is communicating, Section 5 (Strategy) tells you what motion the channel is part of, and Section 11 (Application) is where channel choices get codified. If those sections aren't drafted yet, distribution work is being done ahead of its inputs.
 
 If the founder is asking for distribution work at a level higher than their narrative or ICP, flag it:
 
@@ -288,7 +288,7 @@ Read `references/sr-tone-and-voice.md`. Specific to this skill:
 
 - `sr-pmf-diagnostic` — Run first if level is unknown
 - `sr-icp-builder` — Provides "where to find them" inputs and Tier I persona focus
-- `sr-narrative-builder` — Distribution reflects the narrative; should not scale ahead of it
+- `sr-narrative-builder` — Distribution reflects the narrative and should not scale ahead of it. Specifically depends on Sections 3 (Value Proposition), 5 (Strategy), and 11 (Application). When distribution choices change, those sections likely need updating too.
 - `sr-system-diagnostic` — Will flag if distribution is being built ahead of upstream pillars
 - `sr-gtm-system` — Returns here when distribution is the weakest pillar
 

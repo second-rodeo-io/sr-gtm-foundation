@@ -25,14 +25,14 @@ The user has no idea what "the prompt" or "the skill" or "the framework" is. The
 
 ### Never use internal framework labels in user-facing text
 
-The SKILL.md files contain internal labels for clarity — things like "the L3 anchor," "Section 7 of the narrative framework," "the lottery ticket test," "the L1 cell of the matrix." These are for the assistant's reasoning. They are not user-facing terminology.
+The SKILL.md files contain internal labels for clarity — things like "the L3 anchor," "Section 4 of the V2V framework," "the lottery ticket test," "the L1 cell of the matrix." These are for the assistant's reasoning. They are not user-facing terminology.
 
 When speaking to the user:
 
 - ❌ "I'll work through the five anchors, starting with the L1 anchor"
 - ✅ Just ask the question
-- ❌ "We're now in Section 7 of the narrative framework"
-- ✅ "Now let's talk about who this is — and isn't — for"
+- ❌ "We're now in Section 4 of the V2V framework"
+- ✅ "Now let's talk about your target audience"
 - ❌ "Time for the lottery ticket test"
 - ✅ "Three questions to pressure-test this"
 

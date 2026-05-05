@@ -145,7 +145,7 @@ Be direct:
 
 This is from the deck's closing slide: "Pick the weakest pillar. Spend 90 minutes on it."
 
-The prescription should be specific. Not "work on your narrative" — but "spend 90 minutes drafting Sections 1-3 of the narrative framework (Positioning Line, The Change, The Stakes), then send Section 1 to two customers and ask if it describes what you do in language they'd use."
+The prescription should be specific. Not "work on your narrative" — but "spend 90 minutes drafting your Vision and Mission statements, then send the Vision to two customers and ask whether it describes a future they'd want to be inside of."
 
 Format the prescription as:
 
