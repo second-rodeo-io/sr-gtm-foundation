@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Plugin runtime state — created on user's machine, never committed
+.sr-gtm/
+
+# Build artifacts — published as GitHub release assets, not source
+dist/
+*.plugin
+*.skill
+
+# Node (in case anyone adds tooling)
+node_modules/
+package-lock.json
+
+# Editor
+.vscode/
+.idea/
+*.swp
