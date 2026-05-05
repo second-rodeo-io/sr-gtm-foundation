@@ -1,0 +1,23 @@
+{
+  "name": "sr-gtm-foundation",
+  "version": "0.1.0",
+  "description": "Second Rodeo's GTM Foundation — six skills that help a founder identify where they are in the PMF stack, then sharpen the three pillars that compound: narrative, ICP, and distribution. Start with `sr-gtm-system`, the orchestrator that figures out where you are and routes you to the right next step. Built around the SR thesis that founders don't have a GTM problem, they have a sequence problem.",
+  "author": {
+    "name": "Second Rodeo",
+    "url": "https://secondrodeo.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gtm",
+    "go-to-market",
+    "pmf",
+    "product-market-fit",
+    "narrative",
+    "positioning",
+    "icp",
+    "distribution",
+    "founder",
+    "early-stage",
+    "second-rodeo"
+  ]
+}
