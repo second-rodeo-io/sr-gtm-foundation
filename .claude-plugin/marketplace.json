@@ -1,6 +1,6 @@
 {
   "name": "sr-gtm-foundation",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Second Rodeo's GTM Foundation — six skills for sequencing the work that compounds in early-stage GTM. Start with `sr-gtm-system` to be routed to the right next step.",
   "owner": {
     "name": "Second Rodeo",
@@ -27,7 +27,7 @@
         "founder",
         "early-stage"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "author": {
         "name": "Second Rodeo"
       }
