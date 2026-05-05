@@ -10,7 +10,10 @@
     {
       "name": "sr-gtm-foundation",
       "description": "Find your PMF level, then sharpen the three pillars that compound: narrative, ICP, distribution. Start with the `sr-gtm-system` skill — it's the orchestrator that walks you through the rest.",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "second-rodeo-io/sr-gtm-foundation"
+      },
       "category": "gtm",
       "tags": [
         "gtm",
