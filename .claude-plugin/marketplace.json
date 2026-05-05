@@ -25,7 +25,9 @@
         "early-stage"
       ],
       "version": "0.1.0",
-      "author": "Second Rodeo"
+      "author": {
+        "name": "Second Rodeo"
+      }
     }
   ]
 }
